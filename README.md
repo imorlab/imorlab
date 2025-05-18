@@ -6,9 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Hola,+soy+Israel+Moreno.;Web+Developer;Me+apasiona+el+universo;del+desarrollo+web." alt="Typing SVG" />
 </p>
 
-<h1 align="center">Hola, soy Israel Moreno 👋🏽</h1>
-<h3 align="center">Desarrollador Web Full Stack desde Sevilla, España 🇪🇸</h3>
-
 ---
 
 🎯 Me apasiona construir **sitios web intuitivos, accesibles y dinámicos**, siempre enfocado en mejorar la experiencia de usuario.  
