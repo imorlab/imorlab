@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Hola,+soy+Israel+Moreno.;Web+Developer+desde+Sevilla.;Back-end,+Front-end+y+CMS.;Apasionado+por+el+código+limpio." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Hola,+soy+Israel+Moreno.;Web+Developer;Me+apasiona+el+universo+del+desarrollo+web." alt="Typing SVG" />
 </p>
 
 <h1 align="center">Hola, soy Israel Moreno 👋🏽</h1>
