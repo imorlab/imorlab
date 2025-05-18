@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="500"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Hola,+soy+Israel+Moreno.;Web+Developer+desde+Sevilla.;Back-end,+Front-end+y+CMS.;Apasionado+por+el+código+limpio.">
+</p>
+
 <h1 align="center">Hola, soy Israel Moreno 👋🏽</h1>
 <h3 align="center">Desarrollador Web Full Stack desde Sevilla, España 🇪🇸</h3>
 
