@@ -23,8 +23,8 @@ He desarrollado numerosos proyectos propios y colaborativos, y también tengo ex
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imorlab&show_icons=true&theme=radical&count_private=true&hide=issues" alt="GitHub Stats" height="170px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imorlab&layout=compact&theme=radical&langs_count=6" alt="Top Languages" height="170px"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=imorlab&show_icons=true&theme=radical&count_private=true&hide=issues" alt="GitHub Stats" height="170px"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=imorlab&layout=compact&theme=radical&langs_count=6" alt="Top Languages" height="170px"/>
 </div>
 
 ## 🚀 Tech Stack
