@@ -8,13 +8,16 @@
 
 ---
 
-🎯 Me apasiona construir **sitios web intuitivos, accesibles y dinámicos**, siempre enfocado en mejorar la experiencia de usuario.  
-Soy una persona organizada, resolutiva y con atención al detalle. Me desenvuelvo bien tanto de forma autónoma como en equipo.
+🎯 Me apasiona construir sitios web intuitivos, accesibles y de alto rendimiento, siempre enfocado en ofrecer la mejor experiencia de usuario y en cumplir los estándares más exigentes (100% Core Web Vitals).
 
-🔧 Mi especialidad es el **desarrollo back-end** con **PHP y Laravel**, y también tengo sólida experiencia en **front-end** con **HTML, CSS, JavaScript, Tailwind CSS y Vue.js**.  
-He desarrollado numerosos proyectos propios y colaborativos, y también tengo experiencia con **CMS de código abierto como WordPress**.
+Soy una persona organizada, resolutiva y con atención al detalle. Me desenvuelvo bien tanto de forma autónoma como en equipo, y disfruto trabajando con gente positiva y con visión.
 
-📈 Siempre estoy en busca de nuevos retos y proyectos ambiciosos con gente positiva y con visión.
+🔧 Soy desarrollador Full Stack con más de 3 años de experiencia. Mi especialidad es el desarrollo back-end con Laravel (PHP) y bases de datos relacionales (MySQL, PostgreSQL), y tengo sólida experiencia en front-end con React, Next.js, Vue.js, Tailwind CSS.
+
+Mi enfoque actual integra herramientas de Inteligencia Artificial (AI-driven development) para maximizar la velocidad de entrega y optimizar la calidad del código. Tengo experiencia en integraciones complejas de APIs (incluyendo OpenAI), pasarelas de pago, automatización de procesos y arquitecturas modernas con Supabase.
+
+He desarrollado numerosos proyectos propios y colaborativos.
+📈 Siempre estoy en busca de nuevos retos y proyectos ambiciosos donde seguir creciendo y aportando valor.
 
 ---
 
@@ -30,6 +33,7 @@ He desarrollado numerosos proyectos propios y colaborativos, y también tengo ex
 ## 🚀 Tech Stack
 
 <div align="center">
+
   <!-- Backend -->
   <a href="https://www.php.net" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/PHP-787CB5?style=for-the-badge&logo=php&logoColor=white&labelColor=101010" alt="PHP"/>
@@ -37,12 +41,18 @@ He desarrollado numerosos proyectos propios y colaborativos, y también tengo ex
   <a href="https://laravel.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Laravel-F05340?style=for-the-badge&logo=laravel&logoColor=white&labelColor=101010" alt="Laravel"/>
   </a>
+  <a href="https://livewire.laravel.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=livewire&logoColor=white&labelColor=101010" alt="Livewire"/>
+  </a>
 
   <br/>
 
   <!-- Frontend -->
-  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010" alt="JavaScript"/>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=101010" alt="React"/>
+  </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=101010" alt="Next.js"/>
   </a>
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge&logo=vue.js&logoColor=white&labelColor=101010" alt="Vue.js"/>
@@ -53,19 +63,28 @@ He desarrollado numerosos proyectos propios y colaborativos, y también tengo ex
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Bootstrap-9146FF?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=101010" alt="Bootstrap"/>
   </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/HTML5-FA7343?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010" alt="HTML5"/>
+
+  <br/>
+
+  <!-- Database -->
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010" alt="MySQL"/>
   </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/CSS3-1575F9?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010" alt="CSS3"/>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=101010" alt="PostgreSQL"/>
   </a>
   
   <br/>
 
-  
-  <!-- Database -->
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010" alt="MySQL"/>
+  <!-- Tools & DevOps -->
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=101010" alt="Git"/>
+  </a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=101010" alt="GitHub"/>
+  </a>
+  <a href="https://supabase.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white&labelColor=101010" alt="Supabase"/>
   </a>
 
 </div>
